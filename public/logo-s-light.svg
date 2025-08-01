@@ -1,0 +1,27 @@
+<svg width="90" height="40" viewBox="0 0 90 40" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="gradient-light" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#9E75F0;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#8A2BE2;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#803BEF;stop-opacity:1" />
+    </linearGradient>
+  </defs>
+  
+  <!-- Background circle -->
+  <circle cx="20" cy="20" r="18" fill="url(#gradient-light)" stroke="#ffffff" stroke-width="2"/>
+  
+  <!-- Letter S -->
+  <path d="M15 12 C15 10, 17 8, 20 8 C23 8, 25 10, 25 12 C25 14, 23 15, 20 16 C17 17, 15 18, 15 20 C15 22, 17 24, 20 24 C23 24, 25 22, 25 20" 
+        stroke="#ffffff" 
+        stroke-width="2.5" 
+        fill="none" 
+        stroke-linecap="round"/>
+  
+  <!-- Text "snap web" -->
+  <text x="45" y="16" font-family="Inter, sans-serif" font-size="14" font-weight="600" fill="#1a1a1a">
+    snap
+  </text>
+  <text x="45" y="30" font-family="Inter, sans-serif" font-size="12" font-weight="400" fill="#666666">
+    web
+  </text>
+</svg>
